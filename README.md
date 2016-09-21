@@ -1,6 +1,6 @@
 # AccesoBDMySQL
 
-Acceso a BBDD desde Java. 
+Acceso a BBDD desde Java. Este proyecto accede a la BBDD MySQL y devuelve los usuarios existentes, mostrando el listado por consola.
 
 Requisitos previos:
 - Importar en proyecto libreria JDBC.
